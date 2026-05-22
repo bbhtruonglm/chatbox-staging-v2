@@ -3,8 +3,8 @@
     class "container-fluid" để intergrate với ext, không phải là bootstrap
     không được xoá
   -->
-  <!-- <div class="w-dvw h-dvh container-fluid bg-gradient-primary"> -->
-  <div class="w-dvw h-dvh container-fluid">
+  <div class="w-dvw h-dvh container-fluid bg-gradient-primary">
+  <!-- <div class="w-dvw h-dvh container-fluid"> -->
     <Network />
     <AdBlocker />
     <Loading
